@@ -24,7 +24,7 @@ plugins {
     alias libs.plugins.google.services apply false
     alias libs.plugins.room apply false
     // alias libs.plugins.hilt apply false
-    id 'com.google.dagger.hilt.android' version '2.59' apply false
+    id 'com.google.dagger.hilt.android' version '2.60.1' apply false
 
     alias libs.plugins.download apply false
     // spotless 直接应用于根项目，配置块在下方（其余插件按模块各自应用）
