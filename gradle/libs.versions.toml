@@ -85,7 +85,7 @@ viewpager2 = "1.0.0"
 #noinspection GradleDependency
 firebaseBom = "33.2.0"
 
-spotless = "7.0.2"
+spotless = "8.10.4"
 
 [libraries]
 
