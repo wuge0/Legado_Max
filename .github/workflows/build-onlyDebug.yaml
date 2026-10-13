@@ -49,7 +49,7 @@ jobs:
           ./gradlew assembleAppMaxDebug -x processAppSDebugGoogleServices --parallel --daemon
 
       - name: Upload Debug APK
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: debug-apk
           # 指定打包后的 APK 路径，如果你的输出路径不同请自行修改
