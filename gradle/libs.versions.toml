@@ -74,7 +74,7 @@ media3 = "1.8.0"
 gsyvideoplayer = "11.3.0"
 
 #noinspection GradleDependency
-webkit = "1.14.0"
+webkit = "1.18.0"
 activity = "1.13.0"
 lifecycle = "2.10.0"
 room = "2.8.4"
